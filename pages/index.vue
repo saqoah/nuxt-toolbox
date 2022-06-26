@@ -3,9 +3,7 @@
     <div class="intro">
       <h1>Youtube - CookieViews</h1>
       <p>
-        Hi 👋! This bot gives you unlimited views on youtube shorts,
-        the bot you would need to hit the max of your channel,
-        with a few fun features.
+        Hi 👋!have fun.
       </p>
     </div>
     <FeedbackForm />
