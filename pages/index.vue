@@ -1,4 +1,4 @@
-<template>
+<template class="intro">
   <main class="intro">
     <FeedbackForm />
   </main>
