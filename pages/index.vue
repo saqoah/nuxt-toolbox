@@ -1,7 +1,6 @@
 <template>
   <main class="intro1">
     <div class="intro">
-      <h1>Youtube - CookieViews</h1>
       <p>
         Hi 👋!have fun.
       </p>
