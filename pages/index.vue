@@ -1,10 +1,6 @@
 <template>
   <main class="intro1">
-    <div class="intro">
-      <p>
-        Hi 👋!have fun.
-      </p>
-    </div>
+    <div class="intro">Hi 👋!have fun.</div>
     <FeedbackForm />
     <JokeBlock />
   </main>
@@ -17,8 +13,6 @@
 .intro {
   background: #494646;
   min-width: 400px;
-  padding: 10px 40px;
-  width: 60%;
 }
 .intro1 {
   background: #494646;
