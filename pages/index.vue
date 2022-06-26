@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main class="intro1">
     <div class="intro">
       <h1>Youtube - CookieViews</h1>
       <p>
@@ -22,5 +22,8 @@
   min-width: 400px;
   padding: 10px 40px;
   width: 60%;
+}
+.intro1 {
+  background: #494646;
 }
 </style>
